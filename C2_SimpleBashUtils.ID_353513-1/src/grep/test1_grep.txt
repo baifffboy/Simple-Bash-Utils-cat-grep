@@ -1,0 +1,9 @@
+Hello world
+This is a test file
+hello again
+HELLO in uppercase
+Goodbye
+Another line
+hello one more time
+
+Empty line above

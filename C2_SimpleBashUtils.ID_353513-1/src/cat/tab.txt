@@ -1,0 +1,2 @@
+line with	tabs
+another	line	with	tabs
